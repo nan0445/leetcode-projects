@@ -13,7 +13,7 @@ var findDuplicate = function(nums) {
     }
 };
 
-
+// or !!!!!!!!!!
 /*
 /**
  * @param {number[]} nums
