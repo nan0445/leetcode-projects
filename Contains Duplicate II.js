@@ -35,3 +35,4 @@ var containsNearbyDuplicate = function(nums, k) {
 };
 
 /// why the above one can not use i=0; i<nums.length; i++ way?
+//// probably the difference is map[nums[i]] !== undefinded
