@@ -26,3 +26,4 @@ var letterCombinations = function(digits) {
 };
 
 ///// very weird that can not use i=0; i<tt.length; i++ for line 20??????????????
+//// I see, it should be var i=0; i<tt.length...........
