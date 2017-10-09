@@ -31,3 +31,5 @@ var minStickers = function(stickers, target) {
     
     return dp[(1<<N)-1];
 };
+
+//// ETL, but the DP is very concise!!!! //////////////////////////////////
